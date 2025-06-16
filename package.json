@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "pint": "./vendor/bin/pint"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "diggersclub/shopify-tools",
+  "type": "library",
+  "license": "MIT",
+  "require": {},
+  "require-dev": {
+    "laravel/pint": "^1.21"
+  },
+  "autoload": {
+    "psr-4": {
+      "DiggersClub\\ShopifyTools\\": "src/"
+    },
+    "files": [
+      "src/helpers.php"
+    ]
+  },
+  "authors": [
+    {
+      "name": "Geoff",
+      "email": "geoff@geofftech.com"
+    }
+  ],
+  "extra": {}
+}
